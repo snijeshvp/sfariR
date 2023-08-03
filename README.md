@@ -1,2 +1,4 @@
 # sfariR
 sfariR: An R package for streamlined access, analysis, and visualization of autism-related data from the SFARI database, empowering researchers with valuable insights into Autism Spectrum Disorder (ASD) research
+
+"sfariR is a comprehensive R package designed to facilitate mutational analysis within the SFARI databases, offering researchers a powerful toolkit for exploring genetic variations associated with Autism Spectrum Disorder (ASD). The package provides functionalities to compute and interpret sfari scores and eagle scores, allowing for in-depth assessment of the impact of genetic mutations on ASD risk. Additionally, sfariR enables the seamless visualization of gene expression patterns across normal brain regions, aiding researchers in gaining valuable insights into the molecular underpinnings of ASD."
